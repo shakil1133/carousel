@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  ul {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body{
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.26);
+   }
+   
+ .imgsize{
+   width: 100vh !important;
+  margin: auto;
+ 
+ }
